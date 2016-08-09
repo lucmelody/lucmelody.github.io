@@ -1641,6 +1641,7 @@
 
 			#header h1 a {
 				border: 0;
+				font-size: 50;
 			}
 
 		#header p {
@@ -2045,6 +2046,8 @@
 			h2 {
 				margin: 0 0 1em 0;
 				font-size: 1.5em;
+				color: #2C92E4;
+				font-family: Helvetica;
 			}
 
 			h3 {
@@ -2091,6 +2094,7 @@
 
 				#header p {
 					margin: 1.5em 0 0 0;
+					font-size: 40;
 				}
 
 		/* Nav */
